@@ -16,7 +16,7 @@ Click the green *Code* button, then click *Download ZIP*. Or clone the repositor
 
 ### 2. [Download and install Python](https://wiki.python.org/moin/BeginnersGuide/Download)
 
-### 3. Install de dependencies
+### 3. Install the dependencies
 
 Using [pip](https://pip.pypa.io/en/stable/) run:
 
@@ -25,7 +25,7 @@ Using [pip](https://pip.pypa.io/en/stable/) run:
 ### 4. Run the programs
 
 These instructions are valid for [Ubuntu](https://ubuntu.com/desktop) 20.04.1 LTS, but should work for any operating system.
-Open three terminals on the repository folder. 
+Open three terminals in the repository folder. 
 
 On the first terminal run:
 
